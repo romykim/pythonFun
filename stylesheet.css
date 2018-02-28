@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 970px;
+    height: auto;
+}
+#topHalf{
+    background-color:#254F76;
+    width: 970px;
+    height: 500px;
+    margin-bottom: 20px;
+}
+#topHalf h5{
+    margin-left: 700px;
+}
+
+#pythonsearch{
+    width: 970px;
+    height: 100px;
+    display:inline-block;
+}
+#logo{
+    display:inline-block
+    width: 50px;
+    height: 100px;
+    margin-left: 23px;
+    margin-right: 180px;
+}
+#searchbox{
+    display: inline-block;
+    vertical-align: top;
+    margin-top:8px;
+    height: 25px;
+    width: 320px;
+    background-color: rgb(73, 73, 76);
+    border-radius: 14px;
+    padding: 20px;
+}
+input[type=text]{
+    padding: 8px;
+    margin-left: 55px;
+    margin-right: 5px;
+    margin-bottom: 7px;
+    width: 150px;
+}
+button{
+    background-color:#254F76;
+    width: 40px;
+    height: 30px;
+    border-radius: 6px;
+    color: white;
+}
+#navigations{
+    width: 830px;
+    height: 45px;
+    background-color: #508AC1;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 22px;
+    border-radius: 7px;
+    border-right: solid black 1px;
+    border-bottom: solid black 1px; 
+}
+#navigations h3{
+    color: white;
+    display: inline-block;
+    margin: 0 28px;
+    margin-top:10px;
+    font-weight: normal;
+}
+#links{
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+}
+#links li{
+    margin-top: 7px;
+}
+#aboutandpoem{
+    width: 750px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+#description{
+    width:600px;
+    height: 100px;
+
+}
+#description p{
+    font-size: 13px;
+    color: white;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+#description span{
+    margin-left: 250px;
+}
+#poem{
+    width: 600px;
+    height: 200px;
+}
+#poem li{
+    font-size: 18px;
+    color:rgb(180, 183, 27);
+    margin-left: 90px;
+    margin-top: 7px;
+    list-style-type: none;
+    font-style: italic;
+    text-align: center;
+}
+#poem p{
+    color: white;
+    margin-left: 290px;
+
+}
+#links a{
+    color: white;
+    margin-left: 68px;
+    margin-top: 50px;
+}
+#middle{
+    width: 970px;
+    height: 230px;
+    
+}
+#gettingstarted{
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    border-top: #306795 solid 2px;
+    vertical-align: top;
+    margin-left: 100px;
+
+}
+#gettingstarted h3{
+    text-align: center;
+}
+#gettingstarted p{
+    margin-left: 30px;
+    font-size: 15px;
+}
+#gettingstarted li{
+    font-size: 13px;
+    margin-left: 60px;
+    color: #265175;
+}
+#applications{
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    border-top: #306795 solid 2px;
+}
+#applications h3{
+    text-align: center;
+}
+#applications li{
+    font-size: 13px;
+    margin-left: 45px;
+    color: #265175;
+    padding:.5px;
+}
+#footer{
+    width: 970px;
+    height: 120px;
+    background-color: #265175;
+}
+.footer_top{
+    width: 900px;
+    height: 70px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    text-align: center;
+}
+.footer_top h4{
+
+    margin: 40px;
+    display: inline-block;
+    color:lightblue;
+}
+#footer h6{
+    text-align: center;
+    color: lightblue;
+}
